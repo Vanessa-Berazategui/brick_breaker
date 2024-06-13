@@ -1,3 +1,3 @@
 # brick_breaker
 
-Brick Braker Flame Code Lab.
+Brick Breaker Flame Code Lab.
